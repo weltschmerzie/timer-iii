@@ -1,0 +1,30 @@
+# Visual Studio and C++ build files
+*.sln.docstates
+*.suo
+*.user
+*.vcxproj.user
+*.vcxproj.filters
+*.pdb
+*.opendb
+*.sdf
+
+# Build output directories
+/output/
+/Debug/
+/Release/
+/x64/
+/Win32/
+
+# Build artifacts
+*.obj
+*.obj.enc
+*.ilk
+*.ipdb
+*.iobj
+*.lib
+*.dll
+*.exe
+*.asi
+
+# Log files
+*.log 
